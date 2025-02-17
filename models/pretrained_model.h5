@@ -1,0 +1,5 @@
+The file /video-comparison-app/video-comparison-app/models/pretrained_model.h5 is a binary file that contains the weights of a pre-trained deep learning model. As such, it cannot be represented as text content. You would typically obtain this file by training a model or downloading a pre-trained model from a repository.
+
+If you need to create this file, you would typically do so by saving a model in your training script. Here is a placeholder indicating that this file is intentionally left blank:
+
+# This file is intentionally left blank.

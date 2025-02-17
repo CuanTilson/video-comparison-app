@@ -1,0 +1,91 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f9fa;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+header {
+    background: #35424a;
+    color: #ffffff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+    color: #343a40;
+}
+
+.upload-section {
+    margin: 20px 0;
+    padding: 20px;
+    background: #ffffff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.upload-section input[type="file"] {
+    margin: 10px 0;
+}
+
+.compare-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background: #5cb85c;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.compare-button:hover {
+    background: #4cae4c;
+}
+
+.results {
+    margin-top: 20px;
+    padding: 20px;
+    background: #ffffff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.results img {
+    max-width: 100%;
+    height: auto;
+}
+
+.export-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background: #0275d8;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.export-button:hover {
+    background: #0056b3;
+}
+
+#results {
+    display: block;
+}
+
+#results.active {
+    display: block;
+}
+
+#changes img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}

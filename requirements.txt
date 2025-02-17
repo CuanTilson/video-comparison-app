@@ -1,0 +1,13 @@
+opencv-python
+tensorflow
+flask
+numpy
+scikit-image
+Pillow
+matplotlib
+PyQt5
+imageio
+reportlab
+fpdf
+scikit-learn
+Flask
